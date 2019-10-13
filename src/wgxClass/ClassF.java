@@ -3,7 +3,7 @@ package wgxClass;
 /**
  * 简单的类文件分析
  */
-public class ClassF {
+public class ClassF{
 
     static int id = 2;
 
