@@ -13,3 +13,4 @@
 **/.metadata
 */.springBeans
 /.idea/workspace.xml
+/.idea/*.xml
